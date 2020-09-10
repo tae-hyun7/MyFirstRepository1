@@ -1,2 +1,3 @@
 # MyFirstRepository1
-Tutorial Repository
+
+my naem is jognsub
